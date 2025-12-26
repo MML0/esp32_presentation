@@ -8,7 +8,7 @@ This repository contains example codes and slides for ESP32 Wi-Fi concepts, prep
   - ESP32 Wi-Fi basics and hardware
   - Networking and OSI layer overview
   - ESP-NOW, Mesh, and Cloud communication
-  - Security considerations and common projects
+  - common projects
 
 ESP32 modules provide built-in Wi-Fi, enabling devices to communicate, act as access points, or form mesh networks—ideal for IoT applications.
 
